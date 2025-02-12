@@ -18,4 +18,4 @@
 
 🔹 Frontend: React
 
-🔹 Deployment: Netlify
+🔹 Deployment: You can view the live project here: [Live Demo on Netlify](https://ilahin-moviehub.app)
